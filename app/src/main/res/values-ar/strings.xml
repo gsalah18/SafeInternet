@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الانترنت الامن</string>
+    <string name="title_activity_main">الصفحه الرئيسيه</string>
+    <string name="title_home">الرئيسيه</string>
+    <string name="title_activity_add">صفحه الاضافه</string>
+    <string name="add_vid">اضافه فيديو</string>
+    <string name="vid_name">اسم الفيديو</string>
+    <string name="upload">تحميل</string>
+    <string name="add_web">اضافه موقع</string>
+    <string name="web_name">اسم الموقع</string>
+    <string name="web_url">رابط الموقع</string>
+    <string name="add">اضف</string>
+    <string name="main_tab_content">مقدمه عن المؤسسه</string>
+    <string name="write_a_name">اكتب اسم</string>
+    <string name="uploading">"يتم تحميل الصوره "</string>
+    <string name="picture_uploaded">تم تحميل الصوره</string>
+    <string name="something_went_wrong">حدث خطا ما</string>
+    <string name="done">تم</string>
+    <string name="website_added">تمت اضافه الموقع</string>
+    <string name="must_fill_url">يجب ملئ اسم الموقع ورابطه</string>
+    <string name="vid_bottom_tab">فيديوهات</string>
+    <string name="web_bottom_tab">مواقع</string>
+    <string name="title_activity_youtube">فيديو يوتيوب</string>
+    <string name="title_activity_web">صفحه انترنت</string>
+    <string name="info_bottom_tab">معلومات</string>
+    <string name="book_bottom_tab">كتب</string>
+    <string name="video_added">تمت اضافه الفيديو</string>
+    <string name="book_added">تمت اضافه الكتاب</string>
+    <string name="book_title">عنوان الكتاب</string>
+    <string name="book_link">رابط الكتاب</string>
+    <string name="info">المعلومه</string>
+    <string name="info_added">تمت اضافه المعلومه</string>
+    <string name="video_link">رابط الفيديو</string>
+
+    <string-array name="titles">
+        <item>الرئيسيه</item>
+        <item>فيديوهات</item>
+        <item>مواقع</item>
+        <item>معلومات</item>
+        <item>كتب</item>
+    </string-array>
+    <string-array name="add_tab_items">
+        <item>فيديوهات</item>
+        <item>مواقع</item>
+        <item>معلومات</item>
+        <item>كتب</item>
+    </string-array>
+</resources>
